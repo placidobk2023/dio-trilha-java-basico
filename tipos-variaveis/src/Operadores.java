@@ -4,7 +4,7 @@ public class Operadores {
        boolean condicao1=true;
 
        boolean condicao2=true;
-       if(condicao1 && (7> 4))
+       if(condicao1 && (7 > 4))
        
     System.out.println("as duas condicoes verdadeiras");
        
